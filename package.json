@@ -1,0 +1,17 @@
+{
+  "name": "rn-country-code-picker",
+  "version": "1.0.0",
+  "description": "country code picker for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-country-picker",
+    "country",
+    "code",
+    "picker"
+  ],
+  "author": "Ranjan Kumar Singh",
+  "license": "ISC"
+}
